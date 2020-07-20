@@ -1,0 +1,5 @@
+a=int(input("enter the starting number"))
+b=int(input("enter the ending number"))
+for n in range(a,b+1)
+     if n>=0:
+        print(n,end='') 
